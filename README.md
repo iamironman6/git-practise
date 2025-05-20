@@ -1,1 +1,1 @@
-This is a Git Practise Repo.
+This is a Git Practise Repository.
