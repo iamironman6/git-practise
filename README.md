@@ -5,8 +5,5 @@ This is a Git Practise Repository.
 # 
 # Date - Jan 16th 2025
 #
-<<<<<<< HEAD
 # Git Repo
-=======
->>>>>>> 0744d9a (Updated the file)
 #############
