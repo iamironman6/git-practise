@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 vamsi is very ambititous and strong boy (button)
-=======
 vamsi is very ambititous and strong boy (dropdown)
->>>>>>> feature
